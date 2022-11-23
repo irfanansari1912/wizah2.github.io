@@ -1,0 +1,137 @@
+ /* .Rectangles {
+    position: absolute;
+    width: 380px;
+    height: 400px;
+    left: 73px;
+    top: 42px;
+} */
+ 
+ .Rectangle2 {
+     position: absolute;
+     width: 380px;
+     height: 400px;
+     left: 390px;
+     top: 7px;
+ }
+ 
+ .Rectanglesss {
+     position: absolute;
+     width: 380px;
+     height: 400px;
+     left: 10px;
+     top: 430px;
+ }
+ 
+ .Rectangle1 {
+     position: absolute;
+     width: 380px;
+     height: 400px;
+     left: 393px;
+     top: 430px;
+ }
+ 
+ .side-para {
+     position: absolute;
+     width: 420px;
+     height: 244px;
+     left: 775px;
+     top: 42px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-style: normal;
+     font-weight: 400;
+     font-size: 12px;
+     line-height: 13px;
+     color: black;
+ }
+ 
+ .add {
+     position: absolute;
+     width: 108px;
+     height: 50px;
+     left: 5px;
+     top: 370px;
+ }
+ 
+ .cart {
+     position: absolute;
+     width: 302px;
+     height: 50px;
+     left: 120px;
+     top: 370px;
+ }
+ 
+ .buy {
+     position: absolute;
+     width: 420px;
+     height: 50px;
+     left: 5px;
+     top: 430px;
+     background: #151515;
+ }
+ 
+ .img {
+     position: absolute;
+     top: 450;
+ }
+ 
+ .mat {
+     position: absolute;
+     width: 420px;
+     height: 50px;
+     left: 5px;
+     top: 480px;
+ }
+ 
+ .create {
+     position: absolute;
+     width: 1301px;
+     height: 326px;
+     left: 10px;
+     top: 894px;
+ }
+ 
+ .design {
+     position: absolute;
+     width: 200px;
+     height: 50px;
+     left: 550px;
+     top: 1150px;
+ }
+ 
+ .feature {
+     position: absolute;
+     left: 10px;
+     top: 1270px;
+ }
+ 
+ .card1 {
+     position: absolute;
+     width: 310px;
+     height: 280px;
+     left: 10px;
+     top: 1350px;
+ }
+ 
+ .card2 {
+     position: absolute;
+     width: 310px;
+     height: 280px;
+     left: 333px;
+     top: 1350px;
+ }
+ 
+ .card3 {
+     position: absolute;
+     width: 310px;
+     height: 280px;
+     left: 656px;
+     top: 1350px;
+ }
+ 
+ .card4 {
+     position: absolute;
+     width: 310px;
+     height: 280px;
+     left: 979px;
+     top: 1350px;
+ }
